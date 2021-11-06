@@ -1,4 +1,4 @@
-package com.spark.sfgpetclinic.model;
+package model;
 
 public class Owner extends Person {
 }
