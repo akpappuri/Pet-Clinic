@@ -42,5 +42,6 @@
 
 	<scm>
 		<developerConnection>scm:git:ssh://git@github.com:akpappuri/Pet-Clinic.git</developerConnection>
+    <tag>HEAD</tag>
   </scm>
 </project>
