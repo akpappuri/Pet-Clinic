@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>com.spark</groupId>
 	<artifactId>sfg-pet-clinic</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>sfg-pet-clinic</name>
 	<description>Pet Clinic project</description>
 	<properties>
@@ -42,6 +42,6 @@
 
 	<scm>
 		<developerConnection>scm:git:ssh://git@github.com:akpappuri/Pet-Clinic.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>sfg-pet-clinic-0.0.1</tag>
   </scm>
 </project>
